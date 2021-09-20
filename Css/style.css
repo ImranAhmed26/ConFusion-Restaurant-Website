@@ -70,6 +70,10 @@ body {
   bottom: 0px;
   z-index: 1; }
 
+.caropad {
+  padding-left: 16rem;
+}
+
 .modal-header {
   background: #F9D423;
   color: rgb(47, 47, 47); }
