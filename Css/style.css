@@ -63,6 +63,9 @@ body {
       min-height: 300px;
 
      }
+  .btn-bad {
+    color: rgb(255, 255, 255);
+  }
 
 #carouselButton {
   right: 0px;
